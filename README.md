@@ -9,7 +9,7 @@ Welcome to my GitHub lair! I'm a passionate developer who loves C++, game develo
 - 🔧 Working on custom engines and creative experiments  
 
 ## 🔥 Projects cooking
-- School-friendly tools for students & teachers  
+- Shhhh
 
 ## 📫 Let's connect
 Feel free to check out my repos and hit that ⭐ if you like something.  
